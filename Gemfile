@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 gem "rails", "~> 4"
-gem "sqlite3"
+#gem "sqlite3"
 gem "sass-rails"
 gem "uglifier"
 gem "coffee-rails"
