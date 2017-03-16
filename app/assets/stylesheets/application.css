@@ -1,0 +1,46 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+/*
+ *= require_tree .
+ *= require_self
+ */
+
+ .card {        
+        float: left; /* Added */        
+}
+
+.div-with-bg
+{
+  background-image: url("timeline.png");  
+  background-repeat:   no-repeat;
+  background-position: center center; 
+  height: 2300px;
+  background-size: 70% 100%;
+}
+
+  #bg1
+{
+    background-image: url("timeline.png");	
+}
+  #bg2
+{
+    background-image: url("mantra.png");    
+}
+  #bg3
+{
+    background-image: url("goals.png");
+}
+  #bg4
+{
+    background-image: url("skills.png");
+}
+
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+    > li {
+      float: none;
+      display: inline-block;
+    }
+}
