@@ -35,6 +35,21 @@
     background-image: url("skills.png");
 }
 
+#bg5
+{
+    background-image: url("why.png");
+}
+#bg6
+{
+    background-image: url("interests.png");
+}
+
+#bg7
+{
+    background-image: url("thank.png");
+}
+
+
 
 .navbar-nav {
     width: 100%;
